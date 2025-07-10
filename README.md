@@ -13,6 +13,9 @@ A custom tokenizer that transforms text into multi-hot vectors and decodes them 
 `Python • NLP • Vector Encoding`
 
 [![Tokenizer Badge](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Tokenizer)
+[![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Stock-Market-Analyzer)
+[![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Dynamic-Hash-Table)
+
 
 ---
 
