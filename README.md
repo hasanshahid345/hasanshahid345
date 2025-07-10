@@ -13,8 +13,7 @@ A custom tokenizer that transforms text into multi-hot vectors and decodes them 
 `Python • NLP • Vector Encoding`
 
 [![Tokenizer Badge](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Tokenizer)
-[![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Stock-Market-Analyzer)
-[![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Dynamic-Hash-Table)
+
 
 
 ---
@@ -23,6 +22,7 @@ A custom tokenizer that transforms text into multi-hot vectors and decodes them 
 Coming soon on GitHub  
 Analyzes historical stock data using technical indicators and regression models.  
 `Python • Pandas • NumPy • Alpha Vantage API`
+[![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Stock-Market-Analyzer)
 
 ---
 
@@ -30,6 +30,7 @@ Analyzes historical stock data using technical indicators and regression models.
 Coming soon on GitHub  
 Scalable hash table with sorted buckets, binary search, and dynamic resizing.  
 `Python • Data Structures • Algorithms`
+[![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Dynamic-Hash-Table)
 
 ---
 
@@ -54,11 +55,6 @@ Scalable hash table with sorted buckets, binary search, and dynamic resizing.
 ## 📫 Let's Connect
 
 📧 Email: hasanshahid345@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/hasanshahid345](https://linkedin.com/in/hasanshahid345)  
 💼 GitHub: [github.com/hasanshahid345](https://github.com/hasanshahid345)
 
 ---
-
-### ⭐️ GitHub Stats
-
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanshahid345&show_icons=true&theme=default)
