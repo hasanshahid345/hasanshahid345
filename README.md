@@ -22,6 +22,7 @@ A custom tokenizer that transforms text into multi-hot vectors and decodes them 
 Coming soon on GitHub  
 Analyzes historical stock data using technical indicators and regression models.  
 `Python • Pandas • NumPy • Alpha Vantage API`
+
 [![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Stock-Market-Analyzer)
 
 ---
@@ -30,6 +31,7 @@ Analyzes historical stock data using technical indicators and regression models.
 Coming soon on GitHub  
 Scalable hash table with sorted buckets, binary search, and dynamic resizing.  
 `Python • Data Structures • Algorithms`
+
 [![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Dynamic-Hash-Table)
 
 ---
