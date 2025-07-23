@@ -33,6 +33,17 @@ Scalable hash table with sorted buckets, binary search, and dynamic resizing.
 `Python • Data Structures • Algorithms`
 
 [![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Dynamic-Hash-Table)
+### 🔹 Email Automation
+Coming soon on GitHub  
+Developed automation to trigger personalized follow-up emails to qualified leads by integrating Airtable CRM with
+Gmail, streamlining client outreach and can save hours of manual communication.
+[![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Email-Automation)
+
+### 🔹 Lead Qualifier with Voice Agent 
+Coming soon on GitHub  
+Built an automated lead qualification system using Airtable and voice agents to qualify leads, update CRM records,
+and initiate personalized communications based on lead interactions and interest levels.
+[![View Project](https://img.shields.io/badge/-View%20Project-blue)](https://github.com/hasanshahid345/Lead-Qualifier-with-Voice-Agent)
 
 ---
 
